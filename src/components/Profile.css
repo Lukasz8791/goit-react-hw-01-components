@@ -7,7 +7,7 @@ body {
   padding: 50px 0;
 }
 
-.profile {
+.profileAll {
   background: linear-gradient(
     to bottom left,
     rgb(242, 247, 217),
@@ -18,7 +18,7 @@ body {
   border-radius: 8px;
 }
 
-.description {
+.descriptionProfile {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -27,7 +27,7 @@ body {
   padding-top: 100px;
 }
 
-.avatar {
+.avatarProfile {
   width: 200px;
   height: 200px;
   border-radius: 50%;
@@ -37,24 +37,24 @@ body {
   background: white;
 }
 
-.name {
+.nameProfile {
   font-weight: 700;
   font-size: 34px;
   padding-top: 50px;
 }
 
-.tag {
+.tagProfile {
   color: lightslategray;
   font-size: 25px;
 }
 
-.location {
+.locationProfile {
   color: lightslategray;
   font-size: 25px;
   padding-bottom: 50px;
 }
 
-.stats {
+.statsProfile {
   background: linear-gradient(
     to bottom left,
     rgb(181, 182, 178),
@@ -74,7 +74,7 @@ ul {
   list-style: none;
 }
 
-.listElement {
+.listElementProfile {
   border: 1px solid gainsboro;
   height: 100px;
   display: flex;
@@ -86,12 +86,12 @@ ul {
   font-size: 20px;
 }
 
-.label {
+.labelProfile {
   font-size: 20px;
   color: rgb(117, 117, 112);
 }
 
-.quantity {
+.quantityProfile {
   color: black;
   font-weight: 500;
 }
