@@ -10,8 +10,8 @@ body {
 .profileAll {
   background: linear-gradient(
     to bottom left,
-    rgb(242, 247, 217),
-    rgb(196, 151, 151)
+    rgb(225, 225, 225),
+    rgb(171, 168, 168)
   );
   width: 500px;
   height: 800px;
@@ -57,8 +57,8 @@ body {
 .statsProfile {
   background: linear-gradient(
     to bottom left,
-    rgb(181, 182, 178),
-    rgb(236, 232, 232)
+    rgb(249, 255, 230),
+    rgb(240, 239, 239)
   );
   display: flex;
   justify-content: center;
